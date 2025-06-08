@@ -1,5 +1,8 @@
 # 🔢 Doubly Linked List — Unit-tested Project with CI
 
+![CI Status](https://github.com/SVersj/lab_quadratic-solver-unit-test/actions/workflows/python-app.yml/badge.svg)
+
+
 ## 📘 Опис
 
 Цей проєкт демонструє реалізацію двобічного зв’язаного списку символів (`Character`). Всі методи покриті unit-тестами. В репозиторії налаштовано GitHub Actions для автоматичного запуску тестів.

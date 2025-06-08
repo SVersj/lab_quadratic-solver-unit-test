@@ -1,6 +1,7 @@
 # 🔢 Doubly Linked List — Unit-tested Project with CI
 
-![CI](https://github.com/SVersj/lab_quadratic-solver-unit-test/actions/workflows/python-app.yml/badge.svg)
+![CI](https://img.shields.io/github/actions/workflow/status/SVersj/lab_quadratic-solver-unit-test/go.yml?label=CI%20Tests&style=for-the-badge&logo=github)
+
 
 
 

@@ -12,7 +12,6 @@ class DoublyLinkedList:
         self.tail = None
 
     def append(self, element: str) -> None:
-	pass
         node = Node(element)
         if self.tail is None:
             self.head = self.tail = node
